@@ -1,0 +1,20 @@
+S=20, D=2000, Grid Size=550, Coverage=100%
+S=18, D=2000, Grid Size=550, Coverage=100%
+S=16, D=2000, Grid Size=550, Coverage=98.2%
+S=14, D=2000, Grid Size=550, Coverage=96.81%
+S=8, D=2000, Grid Size=550, Coverage=73.27%
+
+
+S=20, D=2000, GS=1200, Cov=98.52%
+S=18, D=2000, GS=1200, Cov=97%
+S=16, D=2000, GS=1200, Cov=91.9%
+S=14, D=2000, GS=1200, Cov=85.29%
+S=22, D=2000, GS=1200, Cov=100%
+
+
+S=20, D=2000, GS=1650, Cov=97.4%
+S=18, D=2000, GS=1650, Cov=94.8%
+S=16, D=2000, GS=1650, Cov=89.6%
+S=14, D=2000, GS=1650, Cov=83.11%
+S=22, D=2000, GS=1650, Cov=99.1%
+S=24, D=2000, GS-1650, Cov=100%

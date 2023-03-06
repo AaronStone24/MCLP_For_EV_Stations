@@ -1,0 +1,13 @@
+#add files to be ignored here
+#ignore = .gitignore
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info
+*.egg
+*.pdf
+*.zip
+\venv
+\.vscode
+a-readme-first.txt
